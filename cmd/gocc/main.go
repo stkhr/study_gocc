@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gocc/pkg/analyzer"
+	"github.com/stkhr/study_gocc/pkg/analyzer"
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
 
