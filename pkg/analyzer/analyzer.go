@@ -2,7 +2,7 @@ package analyzer
 
 import (
 	"go/ast"
-	"gocc/pkg/complexity"
+	"github.com/stkhr/study_gocc/pkg/complexity"
 
 	"golang.org/x/tools/go/analysis"
 	"golang.org/x/tools/go/analysis/passes/inspect"
